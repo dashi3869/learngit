@@ -3,4 +3,5 @@
 333333333
 5555555555555555555sss
 creat.dev
-Creating a new branch is quick $ simple.
+Creating a new branch is quick and simple.
+
